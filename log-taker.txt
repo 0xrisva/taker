@@ -5001,3 +5001,12 @@
 5/13/2025 | 1:09:33 AM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
 5/13/2025 | 1:09:33 AM | INFO | Trying to activate mining on-chain for wallet: 0xfB7a11Ea18b7d21f8b4B8F6e4F453a45Ff34DF79 
 5/13/2025 | 1:10:49 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x6fcdee5e78cb5adfc72c79a451a17682b3e574c3384719775215e3d8e9edb431 
+5/13/2025 | 4:17:50 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/13/2025 | 4:17:50 AM | INFO | Start process for wallet 0xfB7a11Ea18b7d21f8b4B8F6e4F453a45Ff34DF79 
+5/13/2025 | 4:17:51 AM | INFO | Trying To Login for wallet: 0xfB7a11Ea18b7d21f8b4B8F6e4F453a45Ff34DF79 
+5/13/2025 | 4:17:52 AM | INFO | Login successful... 
+5/13/2025 | 4:17:52 AM | INFO | Trying to check user info... 
+5/13/2025 | 4:17:52 AM | INFO | User ID: 103353340 | Twitter: @myrisva | Total Points: 1896000 
+5/13/2025 | 4:17:52 AM | INFO | Trying to check user miner status... 
+5/13/2025 | 4:17:54 AM | INFO | Last mining time: 5/13/2025, 1:10:33 AM
+5/13/2025 | 4:17:54 AM | WARN | Mining already started, next mining time is: 5/14/2025, 1:10:33 AM
