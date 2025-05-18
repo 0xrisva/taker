@@ -5293,3 +5293,12 @@
 5/18/2025 | 4:26:52 AM | WARN | Retrying... (0 attempts left) 
 5/18/2025 | 4:29:11 AM | ERROR | Failed to get nonce after retries: connect ETIMEDOUT 101.47.181.18:443
 5/18/2025 | 4:29:11 AM | ERROR | Failed to retrieve nonce for wallet: 0xfB7a11Ea18b7d21f8b4B8F6e4F453a45Ff34DF79 
+5/18/2025 | 8:16:19 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/18/2025 | 8:16:19 AM | INFO | Start process for wallet 0xfB7a11Ea18b7d21f8b4B8F6e4F453a45Ff34DF79 
+5/18/2025 | 8:16:20 AM | INFO | Trying To Login for wallet: 0xfB7a11Ea18b7d21f8b4B8F6e4F453a45Ff34DF79 
+5/18/2025 | 8:16:21 AM | INFO | Login successful... 
+5/18/2025 | 8:16:21 AM | INFO | Trying to check user info... 
+5/18/2025 | 8:16:22 AM | INFO | User ID: 103353340 | Twitter: @myrisva | Total Points: 1992000 
+5/18/2025 | 8:16:22 AM | INFO | Trying to check user miner status... 
+5/18/2025 | 8:16:22 AM | INFO | Last mining time: 5/17/2025, 4:15:39 PM
+5/18/2025 | 8:16:22 AM | WARN | Mining already started, next mining time is: 5/18/2025, 4:15:39 PM
