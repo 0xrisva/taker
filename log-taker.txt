@@ -5332,3 +5332,16 @@
 5/18/2025 | 8:14:35 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 5/18/2025 | 8:14:35 PM | INFO | Trying to activate mining on-chain for wallet: 0xfB7a11Ea18b7d21f8b4B8F6e4F453a45Ff34DF79 
 5/18/2025 | 8:14:47 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x14c3bc9b67c859575769496ba5c8d882207f804464163b1577d44fed02a6315b 
+5/19/2025 | 1:11:53 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/19/2025 | 1:11:53 AM | INFO | Start process for wallet 0xfB7a11Ea18b7d21f8b4B8F6e4F453a45Ff34DF79 
+5/19/2025 | 1:11:54 AM | INFO | Trying To Login for wallet: 0xfB7a11Ea18b7d21f8b4B8F6e4F453a45Ff34DF79 
+5/19/2025 | 1:11:54 AM | INFO | Login successful... 
+5/19/2025 | 1:11:54 AM | INFO | Trying to check user info... 
+5/19/2025 | 1:11:55 AM | INFO | User ID: 103353340 | Twitter: @myrisva | Total Points: 2016000 
+5/19/2025 | 1:11:55 AM | INFO | Trying to check user miner status... 
+5/19/2025 | 1:12:28 AM | INFO | Last mining time: 5/17/2025, 4:15:39 PM
+5/19/2025 | 1:12:28 AM | INFO | Trying to start Mining for wallet: 0xfB7a11Ea18b7d21f8b4B8F6e4F453a45Ff34DF79 
+5/19/2025 | 1:13:03 AM | INFO | Mine response: {"code":500,"msg":"The contract is not activated. Please activate the contract first","data":null}
+5/19/2025 | 1:13:03 AM | INFO | Trying to activate mining on-chain for wallet: 0xfB7a11Ea18b7d21f8b4B8F6e4F453a45Ff34DF79 
+5/19/2025 | 1:13:03 AM | ERROR | Activate Mining Error: {"errno":-111,"code":"ECONNREFUSED","syscall":"connect","address":"101.47.19.33","port":443}
+5/19/2025 | 1:13:03 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
