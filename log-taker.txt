@@ -5424,3 +5424,12 @@
 5/20/2025 | 8:20:12 AM | INFO | Trying to activate mining on-chain for wallet: 0xfB7a11Ea18b7d21f8b4B8F6e4F453a45Ff34DF79 
 5/20/2025 | 8:20:14 AM | ERROR | Activate Mining Error: {"code":"CALL_EXCEPTION","action":"estimateGas","data":null,"reason":null,"transaction":{"to":"0xB3eFE5105b835E5Dd9D206445Dbd66DF24b912AB","data":"0x02fb0c5e","from":"0xfB7a11Ea18b7d21f8b4B8F6e4F453a45Ff34DF79"},"invocation":null,"revert":null,"shortMessage":"missing revert data","info":{"error":{"code":-32603,"message":"execution fatal: Module(ModuleError { index: 40, error: [5, 0, 0, 0], message: None })"},"payload":{"method":"eth_estimateGas","params":[{"nonce":"0x18","from":"0xfb7a11ea18b7d21f8b4b8f6e4f453a45ff34df79","to":"0xb3efe5105b835e5dd9d206445dbd66df24b912ab","data":"0x02fb0c5e"}],"id":3,"jsonrpc":"2.0"}}}
 5/20/2025 | 8:20:14 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/20/2025 | 12:29:01 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/20/2025 | 12:29:01 PM | INFO | Start process for wallet 0xfB7a11Ea18b7d21f8b4B8F6e4F453a45Ff34DF79 
+5/20/2025 | 12:29:02 PM | INFO | Trying To Login for wallet: 0xfB7a11Ea18b7d21f8b4B8F6e4F453a45Ff34DF79 
+5/20/2025 | 12:29:02 PM | INFO | Login successful... 
+5/20/2025 | 12:29:02 PM | INFO | Trying to check user info... 
+5/20/2025 | 12:29:03 PM | INFO | User ID: 103353340 | Twitter: @myrisva | Total Points: 2064000 
+5/20/2025 | 12:29:03 PM | INFO | Trying to check user miner status... 
+5/20/2025 | 12:29:04 PM | INFO | Last mining time: 5/19/2025, 8:15:42 PM
+5/20/2025 | 12:29:04 PM | WARN | Mining already started, next mining time is: 5/20/2025, 8:15:42 PM
